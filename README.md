@@ -1,8 +1,9 @@
 # 🧠 SKILL CLASS INDIA
 
-Welcome to **Skill Class India**, your ultimate platform to **master Advanced Excel, AI-powered data analysis, and Power BI** — no matter your age or background. Whether you're a working professional, a student, or a business owner, our hands-on courses are designed to empower you with **real-world data skills** that make an impact.
 
----
+![Logo](https://github.com/jayxvj/skill-class-india/blob/main/img/logo.png?raw=true)
+
+<br>
 
 ## 🌟 What We Offer
 
